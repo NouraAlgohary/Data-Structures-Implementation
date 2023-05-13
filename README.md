@@ -10,6 +10,15 @@
 
 ## Array
 ![Array](https://github.com/NouraAlgohary/Data-Structures-Implementation/assets/103903785/6b812e84-2bcb-4b45-9368-35d61028c9db)
+**Properties**
+* A linear DS
+* Elements have the same data type
+* Contiguous memory locations
+* Index start from 0 to (array size - 1)
+
+**Types**
+* One-Dimensional (1D)
+* Multi-Dimensional (2D, 3D)
 
 ## Queue
 
