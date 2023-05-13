@@ -9,6 +9,7 @@
 - [ ] [**Graph**](#Graph)
 
 ## Array
+![Array](https://github.com/NouraAlgohary/Data-Structures-Implementation/assets/103903785/6b812e84-2bcb-4b45-9368-35d61028c9db)
 
 ## Queue
 
