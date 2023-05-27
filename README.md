@@ -21,6 +21,8 @@
 * Multi-Dimensional (2D, 3D)
 
 ## Queue
+![queue](https://github.com/NouraAlgohary/Data-Structures-Implementation/assets/103903785/6e65ba58-8808-424a-82c6-2686d2c50d73)
+
 
 ## Stack
 
